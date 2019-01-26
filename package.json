@@ -1,0 +1,9 @@
+{
+  "name": "cwebpall",
+  "version": "0.0.1",
+  "description": "Allows use of the cwebp util with a wildcard. The second parameter is the quality factor.",
+  "dependencies": {},
+  "devDependencies": {"glob": "^7.1.3"},
+  "author": "Michael Romanovsky",
+  "license": "MIT"
+}
