@@ -4,7 +4,7 @@
   "description": "Allows use of the cwebp util with a wildcard. The second parameter is the quality factor.",
   "dependencies": {},
   "devDependencies": {"glob": "^7.1.3"},
-  "bin" : {"cwebpall" : "./cwebpall.js"},
+  "bin" : "./cwebpall.js",
   "author": "Michael Romanovsky",
   "license": "MIT"
 }
