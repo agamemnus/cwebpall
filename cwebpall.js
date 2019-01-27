@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 let glob = require('glob')
 let exec = require('child_process').exec
 
